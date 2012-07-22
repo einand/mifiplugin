@@ -1,0 +1,34 @@
+﻿http://192.168.1.1/api/monitoring/traffic-statistics
+
+http://192.168.1.1/api/net/current-plmn
+
+http://192.168.1.1/api/wlan/basic-settings
+
+http://192.168.1.1/api/monitoring/status
+
+
+http://192.168.1.1/js/home.js
+
+
+<CurrentNetworkType>XX</CurrentNetworkType>
+
+0 = no-service
+1 = GSM
+2 = GPRS (2G)
+3 = EDGE (2.5G)
+4 = WCDMA (3G)
+5 = HSDPA (Turbo 3g)
+6 = HSUPA (Turbo 3g plus)
+7 = HSPA
+8 = TDSCDMA
+9 = HSPA_PLUS
+10 = EVDO_REV_0
+11 = EVDO_REV_A
+12 = EVDO_REV_B
+13 = 1xRTT
+14 = UMB
+15 = 1xEVDV
+16 = 3xRTT
+17 = HSPA+64QAM
+18 = HSPA+MIMO
+19 = LTE (4G)
