@@ -1,0 +1,13 @@
+{
+  "name": "Huaweie 589",
+  "version": "1.1",
+  "manifest_version": 2,
+  "description": "Huaweie 589 signal and network viewer",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://192.168.1.1/"
+  ]
+}

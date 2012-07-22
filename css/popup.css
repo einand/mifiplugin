@@ -1,0 +1,11 @@
+@charset "utf-8";
+.topic {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #00C;
+}
+#operator {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #00F;
+}
